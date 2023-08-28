@@ -72,6 +72,13 @@
 // }
 
 // export default Blog
+//Hi i am adding this
+// git add .
+// iff errors come then please git pull
+// git commit -m "mesaage what you want"
+// git push
+// after pushing all things wait a minute
+// npm run deploy
 
 import React from 'react'
 import b1 from "../assets/img/b1.jpg";
