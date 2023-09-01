@@ -112,7 +112,7 @@ function Blog(props) {
                                 <div className="card-img">
                                     <img src={b1} alt="" className="img-fluid blogfic" />
                                 </div>
-                                <h3><span className="stretched-link">{langType? "Advanced Analysis":'Avansert analyse'}</span></h3>
+                                <h3><span className="stretched-link">{langType? "The Legal Revolution":'Den juridiske revolusjonen'}</span></h3>
                                 <p>{langType? "LegalMatch utilizes state-of-the-art language models and natural language processing to analyze the details of your case, extracting key information and understanding its nuances":"LegalMatch bruker toppmoderne språkmodeller og naturlig språkbehandling for å analysere detaljene i saken din, ekstrahere viktig informasjon og forstå dens nyanser."}.
                                 </p>
                                 <button class="button" onClick={() => handleClick(b1,'Advanced Analysis','LegalMatch utilizes state-of-the-art language models and natural language processing to analyze the details of your case, extracting key information and understanding its nuances')}>
@@ -132,7 +132,7 @@ function Blog(props) {
                                 <div className="card-img">
                                     <img src={b2} alt="" className="img-fluid blogfic" />
                                 </div>
-                                <h3><span className="stretched-link">{langType? "Advanced Analysis":'Avansert analyse'}</span></h3>
+                                <h3><span className="stretched-link">{langType? "Predictive Analytics for Case Outcomes":'Prediktiv analyse for saksutfall'}</span></h3>
                                 <p>{langType? "LegalMatch utilizes state-of-the-art language models and natural language processing to analyze the details of your case, extracting key information and understanding its nuances":"LegalMatch bruker toppmoderne språkmodeller og naturlig språkbehandling for å analysere detaljene i saken din, ekstrahere viktig informasjon og forstå dens nyanser."}.
                                 </p>
                                 <button class="button" onClick={() => handleClick(b2,'Advanced Analysis','LegalMatch utilizes state-of-the-art language models and natural language processing to analyze the details of your case, extracting key information and understanding its nuances')}>
@@ -150,7 +150,7 @@ function Blog(props) {
                                 <div className="card-img">
                                     <img src={b3} alt="" className="img-fluid blogfic" />
                                 </div>
-                                <h3><span className="stretched-link">{langType? "Advanced Analysis":'Avansert analyse'}</span></h3>
+                                <h3><span className="stretched-link">{langType? "Virtual Legal Assistants and Chatbots":'Virtuelle juridiske assistenter og chatbots'}</span></h3>
                                 <p>{langType? "LegalMatch utilizes state-of-the-art language models and natural language processing to analyze the details of your case, extracting key information and understanding its nuances":"LegalMatch bruker toppmoderne språkmodeller og naturlig språkbehandling for å analysere detaljene i saken din, ekstrahere viktig informasjon og forstå dens nyanser."}.
                                 </p>
                                 <button class="button" onClick={() => handleClick(b3,'Advanced Analysis','LegalMatch utilizes state-of-the-art language models and natural language processing to analyze the details of your case, extracting key information and understanding its nuances')}>
